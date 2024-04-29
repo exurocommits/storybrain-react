@@ -1,0 +1,169 @@
+.root {
+  position: absolute;
+  left: 47px;
+  top: 60px;
+  width: min-content;
+  height: 192px;
+  flex-direction: column;
+  place-content: center;
+  align-items: flex-start;
+  gap: 7px;
+}
+.chatBubble {
+  position: relative;
+  width: 186px;
+  height: 54px;
+  align-items: flex-start;
+}
+.rectangle3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0.9259%;
+  bottom: -0.9259%;
+  border-radius: 14px;
+  background-color: #0006;
+}
+.wowThankYouForThis {
+  color: #fdfdfd;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 21.5054%;
+  right: 6.4516%;
+  top: 47.2222%;
+  bottom: 9.9206%;
+  flex-direction: column;
+}
+.l_Kelly {
+  opacity: 0.9;
+  color: #fdfdfd;
+  font-size: 10px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 21.5054%;
+  right: 58.0645%;
+  top: 19.4444%;
+  bottom: 58.3333%;
+  flex-direction: column;
+}
+._181 {
+  position: absolute;
+  left: 3.2258%;
+  right: 80.6452%;
+  top: calc(50% - -0.5px);
+  height: 30px;
+  border-radius: 100px;
+  background-image:/* webpackIgnore: true */ url('assets/_181.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: translateY(-50%);
+}
+.chatBubble2 {
+  position: relative;
+  width: 226px;
+  height: 61px;
+  align-items: flex-start;
+}
+.rectangle32 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -0.8197%;
+  bottom: 0.8197%;
+  border-radius: 14px;
+  background-color: #0006;
+}
+._1351 {
+  position: absolute;
+  left: 2.6549%;
+  right: 84.0708%;
+  top: 25.4098%;
+  bottom: 25.4098%;
+  border-radius: 100px;
+  background-image:/* webpackIgnore: true */ url('assets/_1351.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.iLoveTheNecklaceCanYouTellMeTh {
+  color: #fdfdfd;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 17.6991%;
+  right: 4.4248%;
+  top: 35.2459%;
+  bottom: 10.6557%;
+  flex-direction: column;
+}
+.relmi {
+  opacity: 0.9;
+  color: #fdfdfd;
+  font-size: 10px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 17.6991%;
+  right: 65.4867%;
+  top: 10.6557%;
+  bottom: 69.6721%;
+  flex-direction: column;
+}
+.chatBubble3 {
+  position: relative;
+  width: 226px;
+  height: 62px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.rectangle33 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0.8065%;
+  bottom: -0.8065%;
+  border-radius: 14px;
+  background-color: #0006;
+}
+._711 {
+  position: absolute;
+  left: 2.6549%;
+  right: 84.0708%;
+  top: 26.6129%;
+  bottom: 25%;
+  border-radius: 100px;
+  background-image:/* webpackIgnore: true */ url('assets/_711.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.whatSTheMainIngredientInTheSha {
+  color: #fdfdfd;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 17.6991%;
+  right: 5.7522%;
+  top: 36.2903%;
+  bottom: 15.3226%;
+  flex-direction: column;
+}
+.roger_S {
+  opacity: 0.9;
+  color: #fdfdfd;
+  font-size: 10px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 17.6991%;
+  right: 62.3894%;
+  top: 12.0968%;
+  bottom: 68.5484%;
+  flex-direction: column;
+}
